@@ -29,10 +29,10 @@ CommCare
 
 Integrates the MOTECH platform with CommCareHQ, an open-source platform to help manage community health workers
 
-:doc:`Data Services <data_services>`
+Data Services
 ------------------------------------
 
-Integrates data from external data sources and provides sharable data schemas
+Integrates data from external data sources and provides sharable data schemas -- for more information, see :doc:`Data Services <data_services>`
 
 Decision Tree[Deprecated]
 -------------------------
